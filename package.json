@@ -1,0 +1,16 @@
+{
+  "name": "errandlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server .",
+    "start": "serve -s ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^9.4.0"
+  }
+}
